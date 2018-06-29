@@ -1,0 +1,167 @@
+==================================================================
+https://keybase.io/alaincarlucci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://carpikes.github.io
+  * I am alaincarlucci (https://keybase.io/alaincarlucci) on keybase.
+  * I have a public key with fingerprint A3AC D10A A322 FC3D 1F17  4765 8775 1E23 1ED5 80D9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.14"
+        },
+        "key": {
+            "fingerprint": "a3acd10aa322fc3d1f17476587751e231ed580d9",
+            "host": "keybase.io",
+            "key_id": "87751E231ED580D9",
+            "uid": "7f7e9d7497c06411fbe0b33a0a02ec00",
+            "username": "alaincarlucci"
+        },
+        "merkle_root": {
+            "ctime": 1408448436,
+            "hash": "6a7fead59c84e5ed4f777a5eaab151bbdfec1d4e2b95fb9b7a9c072c647afc893990e49c13b7ca040fe1c7f58daecf1aa6ed3d96005070cdfac65d136e02222d",
+            "seqno": 41173
+        },
+        "service": {
+            "hostname": "carpikes.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408448617,
+    "expire_in": 157680000,
+    "prev": "f1f1275b1d6ab3fd8775c504c5076761dc021cd1cbb49acf26e75a3f7193eb09",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkn9MVWUYxy+/bEAqYZuUSe7gGI3L9T33/HjvASE2RdBIAsNRYNf3vOc9cLiX
+ey/3HhBkLIwfBmpecq6UkusWFmssJKJA5o9cSoYgNMQi/4gNRFMrGYSRo3OIVr7b
+2c457+f5Ps/3eR7v8gCDv9/+ksioyJGqH/y+uy0adkxblApKdErlVHwFhe0Kcaj6
+mwMVESqespFyEXmISXGuczglYir0rFtijFQpcXsUp0OjgIk10SxVadR5PVpWHPnE
+7XIruhiFGIQlGiDEmM0yZiRapiELec4CIUcTM0MTibMASdA0C5we9bG01KKmVZG0
+v4t8isanbNb4zTpfsngBZUgECbICxIBnaVoWCRAZBgEEzAQDoIMe4l7yhOxIcWDk
+tpdgrOhFFxG3zU6sbqdz0TpWFZ2jWWBhWQvL8FpZyFOgRfIIygRJnIAtLOGIxMoQ
+QsQRhESao0VRkgmmJZaYRYGTRUGESMAAmjHPQiRji8AIAiCsgGlGhBgBFsiExlDm
+LBIiWKYR4onESAIPAAcgwJKMMM9JNMMTYNaOpPnwkGKHk4rXTEKmUv90lyqY6GXr
+rVtyqJlzKTbiMeUrakGJ+E8bXW6n6sROu3ZfoKouT7xmvZtSy116xB4iWpe0rKLi
+kLT5/X/CtJbq8bbwNDRSpMyluIlV0QkO8hagHT0RKdUkZW3MZsiJtMQjkZElfXqY
+A6z2QB7ytISBmdb2AosiKyAsm3kCOcTIkBYYIgLhP7PaAFSUr0l6lHwHUkvchKqs
+938u0ODnb1gW5K+vsCEkOOzfvU63hRn6fLWNHRHJ8xNHvp0aT7Qff2PvxMvW1MGQ
+o1/ayiL3qbVrs3cvxObufGoWlEq+zN+Tp+jeZ6PRfW+LnLhixpZWbL7RFXo9ecvT
+1XX93uHjc5+tGXvvwc/N3Z/bX7uTfiJ532Tz/pyheVcCnGF9t3PiVt953vRRUte1
+mgTwxG8XZ/4qKQwc7vj63JWHcGPiK/0XOGOPELpgDV1WeKnXOHfWFpFgC4nqO3WU
+5La0B0Ru2LplddLkn9kVEW8GlX9zelOiN6t6z+SRvdXfN5XhgcuJwaVjlepCX3Wx
+4ZIH3J99a+CPkN3Tg9uKHRONzXd+2V6Hb3UyGeM3M2LH26A3mCsajspYfza6vmf2
+xMnSzvNce83QUBk5F5Z280aftTX212vZ2Ssuruqputc6v70qfM2hKty+8XpCaMtG
+Y2bIJzl+W6eiN/Wr9Z29Q+/6ssbKBmJHmfSD7UExM0F55VbHXEXc6MPij7m1MTtS
+22sDz5yWm+Yv22N8T/6UeutFLitpYtiYZ3snI8XgffXMsdbpge7lDW13s8J3fUCN
+7ER5r9elMYWefsOFVe9/WJvL9gR+WpN++MHV3vB74PALK68kK1mNmV+cSj8Z98yG
+uwFduxbGew+wtC81ZdDZfawjcwBc9fXazx8IsBWozU1v37sb8eNUq2n0UdvKiJce
+OQbHGsAh43rlq4aObfOZI38D
+=V6ek
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alaincarlucci
+
+==================================================================
+
+==================================================================
+https://keybase.io/alaincarlucci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://carpikes.github.io
+  * I am alaincarlucci (https://keybase.io/alaincarlucci) on keybase.
+  * I have a public key with fingerprint A3AC D10A A322 FC3D 1F17  4765 8775 1E23 1ED5 80D9
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.14"
+        },
+        "key": {
+            "fingerprint": "a3acd10aa322fc3d1f17476587751e231ed580d9",
+            "host": "keybase.io",
+            "key_id": "87751E231ED580D9",
+            "uid": "7f7e9d7497c06411fbe0b33a0a02ec00",
+            "username": "alaincarlucci"
+        },
+        "merkle_root": {
+            "ctime": 1408448436,
+            "hash": "6a7fead59c84e5ed4f777a5eaab151bbdfec1d4e2b95fb9b7a9c072c647afc893990e49c13b7ca040fe1c7f58daecf1aa6ed3d96005070cdfac65d136e02222d",
+            "seqno": 41173
+        },
+        "service": {
+            "hostname": "carpikes.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408448617,
+    "expire_in": 157680000,
+    "prev": "f1f1275b1d6ab3fd8775c504c5076761dc021cd1cbb49acf26e75a3f7193eb09",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFVkn9MVWUYxy+/bEAqYZuUSe7gGI3L9T33/HjvASE2RdBIAsNRYNf3vOc9cLiX
+ey/3HhBkLIwfBmpecq6UkusWFmssJKJA5o9cSoYgNMQi/4gNRFMrGYSRo3OIVr7b
+2c457+f5Ps/3eR7v8gCDv9/+ksioyJGqH/y+uy0adkxblApKdErlVHwFhe0Kcaj6
+mwMVESqespFyEXmISXGuczglYir0rFtijFQpcXsUp0OjgIk10SxVadR5PVpWHPnE
+7XIruhiFGIQlGiDEmM0yZiRapiELec4CIUcTM0MTibMASdA0C5we9bG01KKmVZG0
+v4t8isanbNb4zTpfsngBZUgECbICxIBnaVoWCRAZBgEEzAQDoIMe4l7yhOxIcWDk
+tpdgrOhFFxG3zU6sbqdz0TpWFZ2jWWBhWQvL8FpZyFOgRfIIygRJnIAtLOGIxMoQ
+QsQRhESao0VRkgmmJZaYRYGTRUGESMAAmjHPQiRji8AIAiCsgGlGhBgBFsiExlDm
+LBIiWKYR4onESAIPAAcgwJKMMM9JNMMTYNaOpPnwkGKHk4rXTEKmUv90lyqY6GXr
+rVtyqJlzKTbiMeUrakGJ+E8bXW6n6sROu3ZfoKouT7xmvZtSy116xB4iWpe0rKLi
+kLT5/X/CtJbq8bbwNDRSpMyluIlV0QkO8hagHT0RKdUkZW3MZsiJtMQjkZElfXqY
+A6z2QB7ytISBmdb2AosiKyAsm3kCOcTIkBYYIgLhP7PaAFSUr0l6lHwHUkvchKqs
+938u0ODnb1gW5K+vsCEkOOzfvU63hRn6fLWNHRHJ8xNHvp0aT7Qff2PvxMvW1MGQ
+o1/ayiL3qbVrs3cvxObufGoWlEq+zN+Tp+jeZ6PRfW+LnLhixpZWbL7RFXo9ecvT
+1XX93uHjc5+tGXvvwc/N3Z/bX7uTfiJ532Tz/pyheVcCnGF9t3PiVt953vRRUte1
+mgTwxG8XZ/4qKQwc7vj63JWHcGPiK/0XOGOPELpgDV1WeKnXOHfWFpFgC4nqO3WU
+5La0B0Ru2LplddLkn9kVEW8GlX9zelOiN6t6z+SRvdXfN5XhgcuJwaVjlepCX3Wx
+4ZIH3J99a+CPkN3Tg9uKHRONzXd+2V6Hb3UyGeM3M2LH26A3mCsajspYfza6vmf2
+xMnSzvNce83QUBk5F5Z280aftTX212vZ2Ssuruqputc6v70qfM2hKty+8XpCaMtG
+Y2bIJzl+W6eiN/Wr9Z29Q+/6ssbKBmJHmfSD7UExM0F55VbHXEXc6MPij7m1MTtS
+22sDz5yWm+Yv22N8T/6UeutFLitpYtiYZ3snI8XgffXMsdbpge7lDW13s8J3fUCN
+7ER5r9elMYWefsOFVe9/WJvL9gR+WpN++MHV3vB74PALK68kK1mNmV+cSj8Z98yG
+uwFduxbGew+wtC81ZdDZfawjcwBc9fXazx8IsBWozU1v37sb8eNUq2n0UdvKiJce
+OQbHGsAh43rlq4aObfOZI38D
+=V6ek
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alaincarlucci
+
+==================================================================
+
+
